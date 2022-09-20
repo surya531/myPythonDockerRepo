@@ -18,6 +18,7 @@ spec:
         ports:
         - containerPort: 5000
 # service type loadbalancer       
+
 ---
 apiVersion: v1
 kind: Service
